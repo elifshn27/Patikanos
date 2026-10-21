@@ -1,6 +1,16 @@
 # patikanos
 
-A new Flutter project.
+A Flutter project that lists great routes we need while exercising, tracks the weather, and lets you see your progress.
+
+#Team
+Elif Şahin
+Esma Gül Baş
+Tuba Arpaçay
+İrem Çakmak
+
+#Projecy board
+
+https://github.com/users/elifshn27/projects/2
 
 ## Getting Started
 

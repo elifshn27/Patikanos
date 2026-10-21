@@ -55,3 +55,6 @@ app.*.map.json
 *.js.map
 .venv/
 __pycache__/
+venv/
+.env
+__pycache__/
